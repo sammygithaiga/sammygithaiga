@@ -13,7 +13,7 @@ Hey, I'm Samuel ~<br>Software Engineer sharing about my journey of learning soft
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=sammygithaiga&theme=gruvbox&no-frame=false&no-bg=false&margin-w=4)
 
-### ✍️ Random Dev Quote
+
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
