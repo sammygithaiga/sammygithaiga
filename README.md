@@ -23,6 +23,11 @@ Hey, I'm Samuel ~<br>Software Engineer sharing about my journey of learning soft
 ---
 [![](https://visitcount.itsvg.in/api?id=sammygithaiga&icon=0&color=12)](https://visitcount.itsvg.in)
 
+
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=sammygirhaiga&label=231&pretty=false" />
+</a>
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 <!--
