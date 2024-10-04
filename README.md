@@ -1,5 +1,4 @@
-## Hi there 👋
-
+## Hi there 👋 My Name Is Samuel Githaiga
 # 💫 About Me:
 Hey, I'm Samuel ~<br>Software Engineer sharing about my journey of learning software development <br>Just finished studying [software engineering] at Moringa School<br>Currently perfecting my skills for full-stack web development 
 
